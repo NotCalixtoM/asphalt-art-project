@@ -30,6 +30,8 @@ Final:
 ## Reflection
 
 1. Describe your project.
+My project is a program built within Code.org's JavaLab which uses multiple painter objects, written within the program, that each paint different components of a smiley face image to construct a digital image of a smiley face.
+
 
 2. What are two things about your project that you are proud of?
 
